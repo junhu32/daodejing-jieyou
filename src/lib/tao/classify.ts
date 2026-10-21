@@ -13,6 +13,10 @@ export const THEMES: Theme[] = [
   { id: "fortune", label: "祸福变故" },
   { id: "control", label: "执着强求" },
   { id: "comparison", label: "比较自卑" },
+  { id: "loneliness", label: "孤独疏离" },
+  { id: "resentment", label: "怨恨难平" },
+  { id: "imperfection", label: "自我怀疑" },
+  { id: "overwork", label: "透支硬撑" },
 ];
 
 /** 关键词打分分类：命中最多的主题胜出，平局时先定义者优先 */
